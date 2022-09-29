@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/sergioCB95/ob-kata-sep-2022/issues"
   },
-  "homepage": "https://github.com/sergioCB95/ob-kata-sep-2022#readme"
+  "homepage": "https://github.com/sergioCB95/ob-kata-sep-2022#readme",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
 }
